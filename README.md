@@ -1,1 +1,1 @@
-maim
+main
